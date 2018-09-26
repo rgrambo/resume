@@ -3,7 +3,10 @@
 LinkedIn: www.linkedin.com/in/rossgrambo
 
 ## About my GitHub
-These are a few of my personal projects or school projects that I am able to have open source. Sadly, most of my professional work is not open source, and my work within Grambo Games cannot be open source in order to keep the games unique.
+These are a few of my personal projects or school projects that I am able to have open source. Sadly, most of my professional work is not open source, and my work within Grambo Games cannot be open source in order to protect the originality of the games.
+
+## Games
+https://www.grambogames.com/
 
 ## Node
 ![Image](https://s4.postimg.org/f0ty669wt/AIm.png)
