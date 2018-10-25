@@ -9,7 +9,7 @@ These are a few of my personal projects or school projects that I am able to hav
 https://www.grambogames.com/
 
 ## Node
-![Image](https://imgur.com/a/F1LcXJF.gif)
+![Image](https://imgur.com/tkml1KI.gif)
 
 https://github.com/rgrambo/AIm
 
