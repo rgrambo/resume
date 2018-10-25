@@ -25,13 +25,9 @@ https://github.com/rgrambo/calendar-todo
 https://github.com/rgrambo/motion-game
 
 ### Geo-paint
-![image](https://s27.postimg.org/861y2gtbn/geo-paint.png)
-
 https://github.com/rgrambo/geopaint
 
 ### Yama
-![image](https://s11.postimg.org/wqmu7y3nn/yama.png)
-
 https://github.com/rgrambo/yama
 
 
