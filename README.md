@@ -8,8 +8,13 @@ These are a few of my personal projects or school projects that I am able to hav
 ## Games
 https://www.grambogames.com/
 
+## React
+![image](https://imgur.com/dgWJ26u.png)
+
+https://github.com/rgrambo/tic-tac-toad
+
 ## Node
-![Image](https://imgur.com/tkml1KI.gif)
+![image](https://imgur.com/tkml1KI.gif)
 
 https://github.com/rgrambo/AIm
 
