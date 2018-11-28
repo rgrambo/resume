@@ -6,6 +6,11 @@ LinkedIn: www.linkedin.com/in/rossgrambo
 ## About my GitHub
 Here are some links to my other sites, and a few of my personal or school projects that I am allowed to open source.
 
+### Node
+![image](https://imgur.com/tkml1KI.gif)
+
+https://github.com/rgrambo/AIm
+
 ### Vanilla Javascript
 ![alt text](https://raw.githubusercontent.com/rgrambo/candid/master/images/candid.gif)
 
@@ -15,11 +20,6 @@ https://github.com/rgrambo/candid
 ![image](https://imgur.com/dgWJ26u.png)
 
 https://github.com/rgrambo/tic-tac-toad
-
-### Node
-![image](https://imgur.com/tkml1KI.gif)
-
-https://github.com/rgrambo/AIm
 
 ## Android
 ### Calendar Todo
